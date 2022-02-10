@@ -1,0 +1,9 @@
+# ASSIGNMENT-10-leela
+a=int(input('enter a value'))
+if a>0:
+    print('postive number')
+else:
+    print('negative number')
+    OUTPUT:
+ enter a value -2
+negative number
